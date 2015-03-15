@@ -6,3 +6,6 @@ C:\Users\Carolina\Documents\Visual Studio 2012\Projects\ConsoleApplication3\Cons
 C:\Users\Carolina\Desktop\gestionPerrera\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
 C:\Users\Carolina\Desktop\gestionPerrera\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
 C:\Users\Carolina\Desktop\gestionPerrera\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\TiTa\Documents\Documentos Darlin\Ing de software\Din-mica\Aplicacion\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\TiTa\Documents\Documentos Darlin\Ing de software\Din-mica\Aplicacion\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\TiTa\Documents\Documentos Darlin\Ing de software\Din-mica\Aplicacion\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

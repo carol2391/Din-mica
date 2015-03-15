@@ -19,7 +19,56 @@ namespace GestionPerrera
             this.strRaza = raza;
             this.intEdad = edad;
         }
-		
+
+
+        public string Nombre
+        {
+            set
+            {
+                strNombre = value;
+            }
+
+            get
+            {
+                return strNombre;
+            }
+
+        }
+
+
+
+
+        public string Raza
+        {
+
+            set
+            {
+                strRaza = value;
+            }
+
+            get
+            {
+                return strRaza;
+            }
+
+        }
+
+
+        public int Edad
+        {
+            set
+            {
+                intEdad = value;
+            }
+
+            get
+            {
+                return intEdad;
+            }
+
+
+        }
+
 
     }
 }
