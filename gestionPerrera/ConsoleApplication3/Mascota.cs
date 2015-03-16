@@ -27,12 +27,12 @@ namespace GestionPerrera
             {
                 strNombre = value;
             }
-
+            
             get
             {
                 return strNombre;
             }
-
+           
         }
 
 
@@ -60,15 +60,18 @@ namespace GestionPerrera
             {
                 intEdad = value;
             }
-
+            
             get
             {
                 return intEdad;
             }
 
-
+            
         }
 
+       
+
+		
 
     }
 }
