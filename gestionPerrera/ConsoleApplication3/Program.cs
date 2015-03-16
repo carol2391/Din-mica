@@ -22,7 +22,8 @@ namespace GestionPerrera
 		        switch(intOpcion) {
 			    
                     case 1:
-			
+                        Console.Write("Ingrese nombre: ");
+                        string Nombre = Console.ReadLine();
 			        break;
 			        
                     case 2:
